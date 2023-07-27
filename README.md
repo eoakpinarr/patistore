@@ -1,3 +1,7 @@
+![alt text](https://github.com/eoakpinarr/patistore/blob/main/Simulator%20Screenshot%20-%20iPhone%2014%20Pro%20Max%20-%202023-07-27%20at%2018.10.25.png)
+
+![alt text](https://github.com/eoakpinarr/patistore/blob/main/Simulator%20Screenshot%20-%20iPhone%2014%20Pro%20Max%20-%202023-07-27%20at%2018.10.32.png)
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
